@@ -25,11 +25,11 @@ $$
 \text{Area} = \frac{1}{2} \times \text{Base} \times \text{Height}
 $$
 
-- Or using **Heron’s Formula** when all sides \(a\), \(b\), and \(c\) are known:
+- Or using **Heron’s Formula** when all sides $a$, $b$, and $c$ are known:
 $$
 \text{Area} = \sqrt{s(s - a)(s - b)(s - c)}
 $$
-where \(s = \frac{a + b + c}{2}\) (the semi-perimeter).
+where $s = \frac{a + b + c}{2}$ (the semi-perimeter).
 
 ### 4. Perimeter of a Triangle:
 - The perimeter of a triangle is the sum of the lengths of its three sides:
@@ -41,7 +41,7 @@ $$
 
 # Pythagorean Triplet
 
-A **Pythagorean triplet** is a set of three integers \(a\), \(b\), and \(c\) that satisfy the Pythagorean theorem:
+A **Pythagorean triplet** is a set of three integers $a$, $b$, and $c$ that satisfy the Pythagorean theorem:
 
 $$
 a^2 + b^2 = c^2
@@ -64,10 +64,9 @@ $$
 $$
 
 ### Properties of Pythagorean Triplets:
-1. **Primitive Triplets**: A Pythagorean triplet is called primitive if the greatest common divisor (GCD) of \(a\), \(b\), and \(c\) is 1.
+1. **Primitive Triplets**: A Pythagorean triplet is called primitive if the greatest common divisor (GCD) of $a$, $b$, and $c$ is 1.
    - Example: **(3, 4, 5)** is a primitive triplet.
-2. **Multiplying a Triplet**: Multiplying a Pythagorean triplet by a constant \(k\) results in another valid Pythagorean triplet.
+2. **Multiplying a Triplet**: Multiplying a Pythagorean triplet by a constant $k$ results in another valid Pythagorean triplet.
    - For instance, multiplying **(3, 4, 5)** by 2 gives **(6, 8, 10)**, which is also a valid triplet.
 
 ---
-
